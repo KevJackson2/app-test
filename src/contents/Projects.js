@@ -5,6 +5,7 @@ class Projects extends Component {
     return (
       <div className="condiv">
         <h1 className="subtopic">Projects</h1>
+        <h3>Under Construction...</h3>
       </div>
     );
   }
